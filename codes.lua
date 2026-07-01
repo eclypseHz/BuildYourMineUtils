@@ -4,7 +4,7 @@ local codes = {
 			Money = 67
 		},
 		Expiration = 1783296000
-	}
+	},
 	["testcode2"] = {
 		Rewards = {
 			Money = 128389021
